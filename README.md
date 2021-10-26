@@ -10,11 +10,14 @@
 
 - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! and [**Udemy**][udemy]!
 - 🌱 &ensp;I’m currently focusing on Flutter ❤️
+- 🌱 I’m currently learning about deep learning🥰
+- 🌱 I’m currently doing a secondary master degree in data science and AI 🥰
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿 I am a mobile developer from a very early age XD
 - 🤔 I’m looking for help with sharing my videos and social medias
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email]
-
+- ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉
+- ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 
 
 <br />
