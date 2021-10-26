@@ -3,6 +3,9 @@
 <h3 align="center">A Flutter programmer who turn hell to heaven 😜</h3>
 <h3 align="center">Data scientist to be <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3>
 
+![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical)
+
+
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white/)][udemy]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
