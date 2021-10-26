@@ -17,7 +17,6 @@
 - 🗿 I am a mobile developer from a very early age XD
 - 🤔 I’m looking for help with sharing my videos and social medias
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email]
-- ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉
 - ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 
 
