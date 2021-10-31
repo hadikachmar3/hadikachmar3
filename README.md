@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" alt="ovi" width="500"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" alt="ovi" width="490"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" alt="ovi" width="410"/>
 
