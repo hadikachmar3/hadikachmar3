@@ -8,7 +8,7 @@
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" alt="ovi" width="490"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" alt="ovi" width="410"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" alt="ovi" width="415"/>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical)](https://github.com/hadikachmar3/github-readme-stats" alt="ovi" width="410" /> -->
 
