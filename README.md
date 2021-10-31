@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">Hadi Kachmar!;I'm+a+Flutter+Developer... </a></h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">Hadi Kachmar!</a></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA699B&size=30&lines=Flutter+Developer...;I'm+also+Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
 <!-- <h3 align="center">Developer & Data scientist who turn hell to heaven<img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3> -->
