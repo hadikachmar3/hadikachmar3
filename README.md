@@ -4,7 +4,7 @@
 <h3 align="center">Data scientist to be <img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3>
 
 ![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact)](https://github.com/hadikachmar3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&theme=radical)](https://github.com/hadikachmar3/github-readme-stats)
 
 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
