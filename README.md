@@ -22,6 +22,7 @@
 - 🤔 I’m looking for help with sharing my videos and social medias
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email]
 - 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
+- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 <br />
