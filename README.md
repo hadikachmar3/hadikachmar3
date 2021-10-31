@@ -1,6 +1,7 @@
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">Hadi Kachmar!;I'm+a+Flutter+Developer... </a></h1>
 
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">Hadi Kachmar!</a></h1>
-<h3 align="center">Developer & Data scientist who turn hell to heaven<img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA699B&size=30&lines=Flutter+Developer...;I'm+also+Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
+<!-- <h3 align="center">Developer & Data scientist who turn hell to heaven<img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3> -->
 
 
 <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
@@ -21,24 +22,34 @@
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
 
+<!-- [![GitHub views](https://komarev.com/ghpvc/?username=hadikachmar3&label=Views&color=brightgreen&style=flat-square)][github] -->
 <br>
 
 - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! and [**Udemy**][udemy]!
-- 🌱 &ensp;I’m currently focusing on Flutter ❤️
+- 🌱 &ensp;I’m currently working with Flutter ❤️
 - 🌱 I’m currently learning about deep learning🥰
 - 🌱 I’m currently doing a secondary master degree in data science and AI 🥰
-- 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿 I am a mobile developer from a very early age XD
-- 🤔 I’m looking for help with sharing my videos and social medias
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email]
 - 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
-- <a><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
+<!-- - 👯 &ensp;I’m looking to collaborate with other content creators -->
+<!-- - 🤔 I’m looking for help with sharing my videos and social medias -->
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
+<hr>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<br />
-<br />
+<p><img width ='32px' src ='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></p>
 
----
+<hr>
 
 ### 📺 &ensp;Latest YouTube Videos
 
@@ -51,6 +62,10 @@
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w/videos)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### 😜Here's a Joke for you:
+- <a><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 
