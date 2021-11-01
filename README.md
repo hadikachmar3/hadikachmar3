@@ -7,9 +7,11 @@
 <br>
 <p align="center"> 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" alt="ovi" />
-
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" alt="ovi"/>
 </p>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadikachmar3&theme=radical)](https://git.io/streak-stats) -->
+
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical)](https://github.com/hadikachmar3/github-readme-stats" alt="ovi" width="410" /> -->
 
 <br><br><br><br><br><br><br>
