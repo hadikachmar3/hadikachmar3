@@ -5,18 +5,10 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <br>
-<p align="center"> 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" alt="ovi" />
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" alt="ovi"/>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
 </p>
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadikachmar3&theme=radical)](https://git.io/streak-stats) -->
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical)](https://github.com/hadikachmar3/github-readme-stats" alt="ovi" width="410" /> -->
-
-<br><br><br><br><br><br><br>
-
-
 <br>
 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
@@ -74,6 +66,10 @@
 ### 😜Here's a Joke for you:
 <a><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
+<!-- <br>
+<p align="center">
+<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p> -->
 
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
