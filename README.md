@@ -4,11 +4,11 @@
 <!-- <h3 align="center">Developer & Data scientist who turn hell to heaven<img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3> -->
 
 <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
+<p> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" alt="ovi" width="500"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" alt="ovi" width="410"/>
-
+</p>
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical)](https://github.com/hadikachmar3/github-readme-stats" alt="ovi" width="410" /> -->
 
 <br><br><br><br><br><br><br>
