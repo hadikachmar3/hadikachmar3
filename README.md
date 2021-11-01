@@ -1,19 +1,20 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">Hadi Kachmar!</a></h1>
+<h1 align="center"> Hi , I'm <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">Hadi Kachmar!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="70px"></a></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA699B&size=30&lines=Flutter+Developer...;I'm+also+Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
 <!-- <h3 align="center">Developer & Data scientist who turn hell to heaven<img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3> -->
 
 <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p> 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" alt="ovi" width="500"/>
+<br>
+<p align="center"> 
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" alt="ovi" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" alt="ovi" width="410"/>
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" alt="ovi"/>
 </p>
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical)](https://github.com/hadikachmar3/github-readme-stats" alt="ovi" width="410" /> -->
 
 <br><br><br><br><br><br><br>
 
-<hr>
+
 <br>
 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
@@ -23,6 +24,10 @@
 
 <!-- [![GitHub views](https://komarev.com/ghpvc/?username=hadikachmar3&label=Views&color=brightgreen&style=flat-square)][github] -->
 <br>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! and [**Udemy**][udemy]!
 - 🌱 &ensp;I’m currently working with Flutter ❤️
