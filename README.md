@@ -22,6 +22,7 @@
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white/)][udemy]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
+[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B)][github]
 [![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
 
 <!-- [![GitHub views](https://komarev.com/ghpvc/?username=hadikachmar3&label=Views&color=brightgreen&style=flat-square)][github] -->
@@ -71,7 +72,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### 😜Here's a Joke for you:
-- <a><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 
