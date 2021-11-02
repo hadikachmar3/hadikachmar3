@@ -73,16 +73,22 @@
 
 <!-- <p align= "center">
    <kbd>
-    <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
-    <p></p>
+    <td>
+      <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
+      <h5>Flutter with Firebase&Stripe Build shop app from scratch</h5>
+    </td>
   </kbd>
   <kbd>
-    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
-    <p></p>
+    <td>
+      <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
+      <h5>Flutter 2.2 & Firebase, build a complete app from scratch [EN]</h5>
+    </td>
   </kbd>
   <kbd>
-    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
-    <p></p>
+    <td>
+      <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
+      <h5>Flutter 2.2 & Firebase, build a complete app from scratch [AR]</h5>
+    </td>
   </kbd>
 </p> -->
 
