@@ -56,8 +56,10 @@
   <a href="https://www.udemy.com/course/flutter-with-firebase-build-an-e-commerce-app-from-scratch/">
      <kbd>
         <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
-        <br>
+        <br><br>
         <font size="1">Flutter with Firebase&Stripe<br>Build shop app from scratch</font>
+        <br><br>
+        <font size="2"> 4.4 ⭐ </font>
      </kbd>
   </a>
   <a href="https://www.udemy.com/course/flutter-22-firebase-build-a-complete-app-from-scratch/">
