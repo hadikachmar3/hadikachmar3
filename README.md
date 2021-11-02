@@ -56,7 +56,7 @@
   <a href="https://www.udemy.com/course/flutter-with-firebase-build-an-e-commerce-app-from-scratch/">
      <kbd>
         <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
-        <br><br>
+        <br>
         <font size="1">Flutter with Firebase&Stripe<br>Build shop app from scratch</font>
         <br><br>
         <font size="2"> 4.4 ⭐ </font>
@@ -67,6 +67,8 @@
         <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
         <br>
         <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [EN]</font>
+        <br><br>
+        <font size="2"> 4.6 ⭐ </font>
      </kbd>
   </a>
   <a href="https://www.udemy.com/course/flutter-22firebase/">
@@ -74,6 +76,8 @@
         <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
         <br>
         <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [AR]</font>
+        <br><br>
+        <font size="2"> 4.8 ⭐ </font>
       </kbd>
    </a>
 </p>
