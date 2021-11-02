@@ -72,11 +72,14 @@
 </p> -->
 
 <!-- <p align= "center">
-  <kbd>
-    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="snake">
+   <kbd>
+    <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
   </kbd>
   <kbd>
-    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="snake">
+    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
+  </kbd>
+  <kbd>
+    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
   </kbd>
 </p> -->
 
