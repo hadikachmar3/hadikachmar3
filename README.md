@@ -3,6 +3,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA699B&size=30&lines=Flutter+Developer...;I'm+also+Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
 <!-- <h3 align="center">Developer & Data scientist who turn hell to heaven<img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3> -->
 
+
+<!-- <p align= "center">
+   <kbd>
+     <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
+     <br>
+     <font size="1">Flutter with Firebase&Stripe<br>Build shop app from scratch</font>
+  </kbd>
+  <kbd>
+    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
+    <br>
+    <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [EN]</font>
+  </kbd>
+  <kbd>
+    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
+    <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [AR]</font>
+  </kbd>
+</p> -->
+
+
 <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <br>
 <p align= "center">
@@ -69,27 +88,6 @@
 <!-- <br>
 <p align="center">
 <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-
-<!-- <p align= "center">
-   <kbd>
-    <td>
-      <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
-      <h5>Flutter with Firebase&Stripe Build shop app from scratch</h5>
-    </td>
-  </kbd>
-  <kbd>
-    <td>
-      <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
-      <h5>Flutter 2.2 & Firebase, build a complete app from scratch [EN]</h5>
-    </td>
-  </kbd>
-  <kbd>
-    <td>
-      <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
-      <h5>Flutter 2.2 & Firebase, build a complete app from scratch [AR]</h5>
-    </td>
-  </kbd>
 </p> -->
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
