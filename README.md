@@ -71,6 +71,14 @@
 <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
 
+<!-- <p align= "center">
+  <kbd>
+    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="snake">
+  </kbd>
+  <kbd>
+    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="snake">
+  </kbd>
+</p> -->
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
 [youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
