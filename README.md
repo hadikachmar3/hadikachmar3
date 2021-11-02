@@ -3,25 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA699B&size=30&lines=Flutter+Developer...;I'm+also+Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
 <!-- <h3 align="center">Developer & Data scientist who turn hell to heaven<img src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/party_face_256_1.gif" width="30px"></h3> -->
 
-
-<!-- <p align= "center">
-   <kbd>
-     <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
-     <br>
-     <font size="1">Flutter with Firebase&Stripe<br>Build shop app from scratch</font>
-  </kbd>
-  <kbd>
-    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
-    <br>
-    <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [EN]</font>
-  </kbd>
-  <kbd>
-    <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
-    <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [AR]</font>
-  </kbd>
-</p> -->
-
-
 <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <br>
 <p align= "center">
@@ -66,6 +47,32 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></p>
+
+<hr>
+
+<p align= "center">
+  <a href="https://www.udemy.com/course/flutter-with-firebase-build-an-e-commerce-app-from-scratch/">
+     <kbd>
+        <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
+        <br>
+        <font size="1">Flutter with Firebase&Stripe<br>Build shop app from scratch</font>
+     </kbd>
+  </a>
+  <a href="https://www.udemy.com/course/flutter-22-firebase-build-a-complete-app-from-scratch/">
+     <kbd>
+        <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
+        <br>
+        <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [EN]</font>
+     </kbd>
+  </a>
+  <a href="https://www.udemy.com/course/flutter-22firebase/">
+     <kbd>
+        <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
+        <br>
+        <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [AR]</font>
+      </kbd>
+   </a>
+</p>
 
 <hr>
 
