@@ -21,12 +21,13 @@
 </p>
 <br>
 
-[![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white/)][udemy]
+[![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
 [![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
 [![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
 
+<!-- [![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white/)][udemy] -->
 <br>
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** -->
