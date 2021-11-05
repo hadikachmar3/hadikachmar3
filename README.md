@@ -74,7 +74,7 @@
   </a>
   <a href="https://www.udemy.com/course/flutter-22-firebase-build-a-complete-app-from-scratch/">
      <kbd>
-        <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [EN]">
+        <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496712-67888490-e76e-4320-930f-89c6ece4e4bd.png" alt="Flutter WorkOS Course [EN]">
         <br>
         <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [EN]</font>
         <br><br>
@@ -82,8 +82,8 @@
      </kbd>
   </a>
   <a href="https://www.udemy.com/course/flutter-22firebase/">
-     <kbd>
-        <img height= "150" src="https://cdn-thumbs.comidoc.net/480/4152492_2af7.jpg" alt="Flutter WorkOS Course [AR]">
+     <kbd>!
+        <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496706-c08a629a-9372-4416-804e-f3d45f0cb59d.png" alt="Flutter WorkOS Course [AR]">
         <br>
         <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [AR]</font>
         <br><br>
