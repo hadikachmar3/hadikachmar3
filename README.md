@@ -40,6 +40,9 @@
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email]
 - 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
 
+<a href="https://www.buymeacoffee.com/hadikachmae" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hadikachmae) -->
 <hr>
 <h2>  
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -59,8 +62,6 @@
 </p>
 
 <hr>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hadikachmae)
-
 
 <h3>
   <a href="https://www.udemy.com/user/hadi-kachmar-2/">
