@@ -59,8 +59,8 @@
 </p>
 
 <hr>
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hadikachmae)
+
 
 <h3>
   <a href="https://www.udemy.com/user/hadi-kachmar-2/">
