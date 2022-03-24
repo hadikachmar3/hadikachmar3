@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Flutter+Developer...;I'm+also+Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Flutter+Developer...;Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
 <p align="center"> 
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
   &nbsp;
