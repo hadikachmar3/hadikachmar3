@@ -72,6 +72,15 @@
 </h3>
   
 <p align= "center">
+  <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/">
+     <kbd>
+        <img height= "150" src="https://user-images.githubusercontent.com/38382273/169706415-db712fed-3620-42ae-af77-6befcbc65d81.png" alt="Flutter Grocery course">
+        <br>
+        <font size="1">Flutter 3.0&Firebase <br> Build a grocery app with Admin Panel</font>
+        <br><br>
+        <font size="2"> 4.7 ⭐ </font>
+     </kbd>
+  </a>
   <a href="https://www.udemy.com/course/flutter-with-firebase-build-an-e-commerce-app-from-scratch/">
      <kbd>
         <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
