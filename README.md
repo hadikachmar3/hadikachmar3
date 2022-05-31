@@ -78,7 +78,7 @@
         <br>
         <font size="1">Flutter 3.0&Firebase <br> Build a grocery app with Admin Panel</font>
         <br><br>
-        <font size="2"> 4.7 ⭐ </font>
+        <font size="2"> 4.8 ⭐ </font>
      </kbd>
   </a>
   <a href="https://www.udemy.com/course/flutter-with-firebase-build-an-e-commerce-app-from-scratch/">
