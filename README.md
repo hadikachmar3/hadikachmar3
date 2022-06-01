@@ -2,13 +2,13 @@
   Hi , I'm 
   <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">
     Hadi Kachmar!
-    <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="70px">
+<!--     <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="70px"> -->
   </a>
 </h1>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Flutter+Developer...;Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg) -->
+<!-- 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Flutter+Developer...;Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg) --> -->
 <p align="center"> 
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+<!--   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> -->
   &nbsp;
   <i>
     <b>Git Activeness</b>
@@ -47,7 +47,7 @@
 <!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hadikachmae) -->
 <hr>
 <h2>  
-  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<!--   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> -->
   Skills
 </h2>
 
