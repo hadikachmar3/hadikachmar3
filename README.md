@@ -3,7 +3,7 @@
   <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">Hadi Kachmar </a>
 </h1>
 <!--  What am I? -->
-<h3 align="center">Flutter mobile developer & Machine learning researcher</h3>
+<h3 align="center">Flutter developer & Machine learning researcher</h3>
 
 <br/>
 <!-- Social -->
