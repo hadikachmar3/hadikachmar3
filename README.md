@@ -29,13 +29,7 @@
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
 </p>
 
-<!--  Trophies-->
 
-<!-- <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hadikachmar3&theme=radical" alt="hadikachmar3" />
-  </a> 
-</p> -->
 
 </br>
 
@@ -211,6 +205,14 @@
   </a>
 </p>
 
+<!--  Trophies-->
+</br></br></br><hr></br>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hadikachmar3&theme=radical" alt="hadikachmar3" />
+  </a> 
+</p>
+</br>
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
 [youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
