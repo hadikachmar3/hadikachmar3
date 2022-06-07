@@ -1,70 +1,52 @@
-<h1 align="center"> 
-  Hi , I'm 
-  <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">
-    Hadi Kachmar!
-<!--     <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="70px"> -->
-  </a>
+<!-- ME  -->
+<h1 align="center">Hi 👋, I'm 
+  <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">Hadi Kachmar </a>
 </h1>
-<!-- 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Flutter+Developer...;Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg) --> -->
-<p align="center"> 
-<!--   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> -->
-  &nbsp;
-  <i>
-    <b>Git Activeness</b>
-  </i>
-</p>
-<br>
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
-</p>
-<br>
+<!--  What am I? -->
+<h3 align="center">Flutter mobile developer & Machine learning researcher</h3>
+
+<br/>
+<!-- Social -->
 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
-[![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
-[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
 [![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
 [![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
+[![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
+[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
 
-<!-- [![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white/)][udemy] -->
-<br>
 
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** -->
-
-- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! and [**Udemy**][udemy]!
-- 🌱 &ensp;I’m currently working with Flutter ❤️
-- 🌱 I’m currently learning about deep learning🥰
-- 🌱 I’m currently doing a secondary master degree in data science and AI 🥰
-- 🗿 I am a mobile developer from a very early age XD
-- 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email]
-- 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
-
-<a href="https://www.buymeacoffee.com/hadikachmae" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hadikachmae) -->
-<hr>
-<h2>  
-<!--   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> -->
-  Skills
-</h2>
-
-<p>
-  <img width ='32px' src ='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-  <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
+<p align="center"> 
+   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/> 
+   <i>
+      <b>Git Activeness</b>
+   </i>
+</p>
+<!--  Stats -->
+<p align= "center">
+   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
+   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
 </p>
 
-<hr>
+<!--  Trophies-->
 
+<!-- <p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hadikachmar3&theme=radical" alt="hadikachmar3" />
+  </a> 
+</p> -->
+
+</br>
+
+- 🔭 I’m currently working on **Machine learning - Emotion recognition and sentiment analysis task**
+- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! and [**Udemy**][udemy]!
+- 🌱 I’m currently learning **More about AI and data science**
+- 💬 Ask me about **Flutter&Dart&Firebase&AI**
+- 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email] or [**Facebook**][facebook]
+- 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
+
+<!--  Udemy courses-->
 <h3>
   <a href="https://www.udemy.com/user/hadi-kachmar-2/">
     👨‍🏫 Udemy courses by me
@@ -110,13 +92,110 @@
    </a>
 </p>
 
-<hr>
+
+<h3 align="left">Languages and Tools:</h3>
+<!--  Skills -->
+<p align="left">
+<!-- Flutter     -->
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a>
+<!--   Dart   -->
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+<!--  Android  -->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>     </a>
+<!-- Java   -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+<!-- Git  -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  
+<!--   Python   -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+<!--   Scikit learn   -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a> 
+<!--  Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+<!--   Tensorflow   -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+<!--   Seaborn   -->
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+<!--   OpenCV   -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a> 
+<!--  Pytorch  -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a>
+  
+<!--   Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+<!-- Mysql  -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+ <!--   Sqlite   -->
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a> 
+<!--   Hive   -->
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
+  </a>
+<!-- Appwrite -->
+  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
+  </a> 
+  
+<!--  Html    -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+<!-- Javascript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+<!--   Bootstap -->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/?
+  </a> 
+<!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+
+<!--  Linux  -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a> 
+
+
+</p>
 
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Flutter Tutorial - Flutter 3.0 - WEB image picker](https://youtu.be/VMmQ0Gx7LAA)
 - [Flutter Tutorial - Flutter 2.0 , Implement Search in Flutter on a listview](https://www.youtube.com/watch?v=XIyyZpZiHWc&t=9s)
-- [Flutter Tutorial - Stripe Payment integration with full source code #Stripe](https://www.youtube.com/watch?v=yTJ7fuF7jRo)
+- [Flutter Tutorial - Flutter 3.0 & Stripe Payment integration with Firebase #Stripe](https://youtu.be/BR4sF_VzV0w)
 - [Flutter Tutorial - Google sign in](https://www.youtube.com/watch?v=S0PsfbyVIhk)
 - [Flutter Tutorial - Flutter Video Player in details](https://www.youtube.com/watch?v=N0lUBVYl1hI)
 - [Flutter Tutorial - image picker using camera and gallery, with cool design](https://www.youtube.com/watch?v=7G9cVze5eJU)
@@ -124,14 +203,14 @@
 
 ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w/videos)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### 😜 Here's a Joke for you:
-<a><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+ 
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/hadikachmae"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hadikachmae" />
+  </a>
+</p>
 
-<!-- <br>
-<p align="center">
-<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
 [youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
