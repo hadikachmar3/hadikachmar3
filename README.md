@@ -206,11 +206,11 @@
 </p>
 
 <!--  Trophies-->
-</br></br></br><hr></br>
+<!-- </br></br></br><hr></br>
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=hadikachmar3&theme=radical" alt="hadikachmar3" />
 </p>
-</br>
+</br> -->
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
 [youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
