@@ -48,7 +48,17 @@
 </h3>
   
 <p align= "center">
-  <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/">
+
+  <a href="https://www.udemy.com/course/flutter-30rest-api-crash-course-build-a-news-app-from-zero/?referralCode=51B0E1AC01B51390185B">
+     <kbd>
+        <img height= "150" src="https://user-images.githubusercontent.com/38382273/176717061-1dc49177-c9a4-4206-9e1b-4f9c20686185.png" alt="Flutter Rest API course">
+        <br>
+        <font size="1">Flutter 3.0&Rest API crash course <br> build a News app from zero</font>
+        <br><br>
+        <font size="2"> - ⭐ </font>
+     </kbd>
+  </a>
+  <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/?referralCode=B6FA32F8946EF083C9A2">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/169706415-db712fed-3620-42ae-af77-6befcbc65d81.png" alt="Flutter Grocery course">
         <br>
