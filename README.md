@@ -14,7 +14,6 @@
 [![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
-[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hadikachmar3.visitor-badge)
 
 <p align="center"> 
@@ -229,3 +228,4 @@
 [email]: mailto:flutterer.dev@gmail.com
 [facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
 [discord]: https://discord.gg/MhnKaY5qdK
+[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
