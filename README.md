@@ -14,7 +14,7 @@
 [![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hadikachmar3.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hadikachmar3.visitor-badge) **Added on 02/11/2022**
 
 <p align="center"> 
    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/> 
