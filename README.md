@@ -47,7 +47,24 @@
 </h3>
   
 <p align= "center">
-
+  <a href="https://www.udemy.com/course/build-chatgpt-app-in-flutter-using-openai-api/?referralCode=271157BBF67BFA21C9F4">
+     <kbd>
+        <img height= "150" src="https://user-images.githubusercontent.com/38382273/219823750-1871244b-ce20-479b-8093-55f73f4dfa79.jpg" alt="Flutter ChatGPT course">
+        <br>
+        <font size="1">Build ChatGPT App in Flutter<br>using OpenAI API</font>
+        <br><br>
+        <font size="2"> 5.0 ⭐ </font>
+     </kbd>
+  </a>  
+  <a href="https://www.udemy.com/course/flutter-30-rest-api-from-scratch-build-a-store-app/?referralCode=7D80FFB59F0D7663FEC1">
+     <kbd>
+        <img height= "150" src="https://user-images.githubusercontent.com/38382273/219823924-180f273a-e69d-4c51-b31a-6a189853a45a.png" alt="Flutter 3.0 & Rest API from scratch, build a mini Store app">
+        <br>
+        <font size="1">Flutter 3.0 & Rest API from scratch,<br>build a mini Store app</font>
+        <br><br>
+        <font size="2"> 5.0 ⭐ </font>
+     </kbd>
+  </a>
   <a href="https://www.udemy.com/course/flutter-30rest-api-crash-course-build-a-news-app-from-zero/?referralCode=51B0E1AC01B51390185B">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/176717061-1dc49177-c9a4-4206-9e1b-4f9c20686185.png" alt="Flutter Rest API course">
@@ -81,7 +98,7 @@
         <br>
         <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [EN]</font>
         <br><br>
-        <font size="2"> 4.6 ⭐ </font>
+        <font size="2"> 4.8 ⭐ </font>
      </kbd>
   </a>
   <a href="https://www.udemy.com/course/flutter-22firebase/">
