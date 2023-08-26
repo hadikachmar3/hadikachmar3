@@ -47,6 +47,15 @@
 </h3>
   
 <p align= "center">
+    <a href="https://www.udemy.com/course/flutter-310-firebase-build-an-e-commerce-and-admin-app/?referralCode=A4F9F133D8C6ECA8CCA8">
+     <kbd>
+        <img height= "150" src="https://img-c.udemycdn.com/course/750x422/5246870_67ad_4.jpg" alt="Flutter shop course">
+        <br>
+        <font size="1">Flutter 3.10 & Firebase:<br>build an E-commerce and Admin App</font>
+        <br><br>
+        <font size="2"> 4.6 ⭐ </font>
+     </kbd>
+  </a>
   <a href="https://www.udemy.com/course/build-chatgpt-app-in-flutter-using-openai-api/?referralCode=271157BBF67BFA21C9F4">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/219823750-1871244b-ce20-479b-8093-55f73f4dfa79.jpg" alt="Flutter ChatGPT course">
@@ -92,7 +101,7 @@
         <font size="2"> 4.4 ⭐ </font>
      </kbd>
   </a>
-  <a href="https://www.udemy.com/course/flutter-22-firebase-build-a-complete-app-from-scratch/">
+<!--   <a href="https://www.udemy.com/course/flutter-22-firebase-build-a-complete-app-from-scratch/">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496712-67888490-e76e-4320-930f-89c6ece4e4bd.png" alt="Flutter WorkOS Course [EN]">
         <br>
@@ -109,7 +118,7 @@
         <br><br>
         <font size="2"> 4.8 ⭐ </font>
       </kbd>
-   </a>
+   </a> -->
 </p>
 
 
