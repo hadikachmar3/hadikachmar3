@@ -32,12 +32,7 @@
 
 </br>
 
-- 🔭 I’m currently working on **Machine learning - Emotion recognition and sentiment analysis task**
-- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]! and [**Udemy**][udemy]!
-- 🌱 I’m currently learning **More about AI and data science**
-- 💬 Ask me about **Flutter&Dart&Firebase&AI**
-- 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email] or [**Facebook**][facebook]
-- 🍺 Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎
+
 
 <!--  Udemy courses-->
 <h3>
