@@ -3,7 +3,7 @@
   <a href="https://hadikachmar3.github.io/">Hadi Kachmar </a>
 </h1>
 <!--  What am I? -->
-<h3 align="center">Data scientist | Dual Masters | Mobile developer & Instructor</h3>
+<h3 align="center">Senior Front End Dev | Data scientist | Instructor</h3>
 
 <br/>
 <!-- Social -->
