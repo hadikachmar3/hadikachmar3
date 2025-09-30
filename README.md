@@ -3,54 +3,64 @@
   <a href="https://hadikachmar3.github.io/">Hadi Kachmar </a>
 </h1>
 <!--  What am I? -->
-<h3 align="center">Senior Software Engineer | Data scientist | Instructor</h3>
+<h3 align="center">Senior Software Engineer | Data Scientist | Instructor</h3>
 
 <br/>
-<!-- Social -->
 
+<!-- Social -->
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
 [![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
 [![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
 [![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hadikachmar3.visitor-badge) **Added on 02/11/2022**
+[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
+
+---
 
 <p align="center"> 
    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/> 
-   <i>
-      <b>Git Activeness</b>
-   </i>
+   <i><b>Git Activeness</b></i>
 </p>
+
 <!--  Stats -->
 <p align= "center">
    <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
 </p>
 
-
-
-</br>
-
-
+---
 
 <!--  Udemy courses-->
 <h3>
   <a href="https://www.udemy.com/user/hadi-kachmar-2/">
-    👨‍🏫 Udemy courses by me
+    👨‍🏫 Udemy Courses by me
   </a>
 </h3>
   
 <p align= "center">
-    <a href="https://www.udemy.com/course/flutter-310-firebase-build-an-e-commerce-and-admin-app/?referralCode=A4F9F133D8C6ECA8CCA8">
+
+  <!-- NEW FIRST COURSE -->
+  <a href="https://www.udemy.com/course/advanced-flutter-mvvm-with-provider-riverpod-bloc/">
+     <kbd>
+        <img height= "150" src="https://github.com/user-attachments/assets/12813e04-1996-41ea-b3bc-029f0f73ad42" alt="Advanced Flutter MVVM">
+        <br>
+        <font size="1">Advanced Flutter MVVM<br>with Provider, Riverpod & BLoC</font>
+        <br><br>
+        <font size="2"> 4.5 ⭐ </font>
+     </kbd>
+  </a>
+
+  <a href="https://www.udemy.com/course/flutter-310-firebase-build-an-e-commerce-and-admin-app/?referralCode=A4F9F133D8C6ECA8CCA8">
      <kbd>
         <img height= "150" src="https://img-c.udemycdn.com/course/750x422/5246870_67ad_4.jpg" alt="Flutter shop course">
         <br>
-        <font size="1">Flutter 3.10 & Firebase:<br>build an E-commerce and Admin App</font>
+        <font size="1">Flutter 3.10 & Firebase:<br>Build an E-commerce & Admin App</font>
         <br><br>
         <font size="2"> 4.6 ⭐ </font>
      </kbd>
   </a>
+
   <a href="https://www.udemy.com/course/build-chatgpt-app-in-flutter-using-openai-api/?referralCode=271157BBF67BFA21C9F4">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/219823750-1871244b-ce20-479b-8093-55f73f4dfa79.jpg" alt="Flutter ChatGPT course">
@@ -60,161 +70,68 @@
         <font size="2"> 5.0 ⭐ </font>
      </kbd>
   </a>  
-  <a href="https://www.udemy.com/course/flutter-30-rest-api-from-scratch-build-a-store-app/?referralCode=7D80FFB59F0D7663FEC1">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/219823924-180f273a-e69d-4c51-b31a-6a189853a45a.png" alt="Flutter 3.0 & Rest API from scratch, build a mini Store app">
-        <br>
-        <font size="1">Flutter 3.0 & Rest API from scratch,<br>build a mini Store app</font>
-        <br><br>
-        <font size="2"> 5.0 ⭐ </font>
-     </kbd>
-  </a>
+
+
   <a href="https://www.udemy.com/course/flutter-30rest-api-crash-course-build-a-news-app-from-zero/?referralCode=51B0E1AC01B51390185B">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/176717061-1dc49177-c9a4-4206-9e1b-4f9c20686185.png" alt="Flutter Rest API course">
         <br>
-        <font size="1">Flutter 3.0&Rest API crash course <br> build a News app from zero</font>
+        <font size="1">Flutter 3.0 & Rest API<br>Crash Course - News App</font>
         <br><br>
         <font size="2"> 5.0 ⭐ </font>
      </kbd>
   </a>
+
   <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/?referralCode=B6FA32F8946EF083C9A2">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/169706415-db712fed-3620-42ae-af77-6befcbc65d81.png" alt="Flutter Grocery course">
         <br>
-        <font size="1">Flutter 3.0&Firebase <br> Build a grocery app with Admin Panel</font>
+        <font size="1">Flutter 3.0 & Firebase<br>Grocery App + Admin Panel</font>
         <br><br>
         <font size="2"> 4.8 ⭐ </font>
      </kbd>
   </a>
+
   <a href="https://www.udemy.com/course/flutter-with-firebase-build-an-e-commerce-app-from-scratch/">
      <kbd>
         <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
         <br>
-        <font size="1">Flutter with Firebase&Stripe<br>Build shop app from scratch</font>
+        <font size="1">Flutter with Firebase & Stripe<br>Build Shop App</font>
         <br><br>
         <font size="2"> 4.4 ⭐ </font>
      </kbd>
   </a>
-<!--   <a href="https://www.udemy.com/course/flutter-22-firebase-build-a-complete-app-from-scratch/">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496712-67888490-e76e-4320-930f-89c6ece4e4bd.png" alt="Flutter WorkOS Course [EN]">
-        <br>
-        <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [EN]</font>
-        <br><br>
-        <font size="2"> 4.8 ⭐ </font>
-     </kbd>
-  </a>
-  <a href="https://www.udemy.com/course/flutter-22firebase/">
-     <kbd>
-        <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496706-c08a629a-9372-4416-804e-f3d45f0cb59d.png" alt="Flutter WorkOS Course [AR]">
-        <br>
-        <font size="1">Flutter 2.2 & Firebase,<br>build a complete app from scratch [AR]</font>
-        <br><br>
-        <font size="2"> 4.8 ⭐ </font>
-      </kbd>
-   </a> -->
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<!--  Skills -->
-<p align="left">
-<!-- Flutter     -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-<!--   Dart   -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-<!--  Android  -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>     </a>
-<!-- Java   -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-<!-- Git  -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  
-<!--   Python   -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-<!--   Scikit learn   -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a> 
-<!--  Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-<!--   Tensorflow   -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-<!--   Seaborn   -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-<!--   OpenCV   -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a> 
-<!--  Pytorch  -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  
-<!--   Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-<!-- Mysql  -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
- <!--   Sqlite   -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-<!--   Hive   -->
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
-  </a>
-<!-- Appwrite -->
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
-  </a> 
-  
-<!--  Html    -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-<!-- Javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-<!--   Bootstap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/?
-  </a> 
-<!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-
-<!--  Linux  -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a> 
-
 
 </p>
 
-### 📺 &ensp;Latest YouTube Videos
+---
+
+## 🛠️ Skills & Tools
+
+### 🚀 Mobile & Frontend
+- **Flutter / Dart** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20" height="20"/>  
+- **React / TypeScript / JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"/>  
+- Kotlin / Jetpack Compose <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="20" height="20"/>  
+- Java / XML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/>  
+- Redux, REST APIs, UI/UX <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20" height="20"/>  
+
+### 🧑‍💻 Backend & Data
+- Python (AI/ML, Django, FastAPI) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="20" height="20"/>  
+- SQL, SQLite, Firebase, Google Cloud <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="20" height="20"/>  
+- NumPy, Pandas, PySpark, Databricks, Power BI <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="20" height="20"/>  
+
+### ☁️ DevOps & Workflow
+- GitHub Actions, CI/CD <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20"/>  
+- Docker, Azure, JIRA, Agile <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="20" height="20"/>  
+- Postman, ML Kit <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20" height="20"/>  
+
+### 🧰 Tools
+- VS Code, Android Studio, IntelliJ, WebStorm <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" width="20" height="20"/>  
+- Camtasia (Video Editing), WooCommerce, PHP <img src="https://www.vectorlogo.zone/logos/techsmith/techsmith-icon.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20"/>  
+
+---
+
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Flutter Tutorial - Flutter 3.0 - WEB image picker](https://youtu.be/VMmQ0Gx7LAA)
@@ -227,20 +144,8 @@
 
 ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w/videos)
 
- 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/hadikachmae"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hadikachmae" />
-  </a>
-</p>
 
-<!--  Trophies-->
-<!-- </br></br></br><hr></br>
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=hadikachmar3&theme=radical" alt="hadikachmar3" />
-</p>
-</br> -->
+---
 
 [udemy]: https://www.udemy.com/user/hadi-kachmar-2/
 [youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
@@ -249,4 +154,3 @@
 [email]: mailto:flutterer.dev@gmail.com
 [facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
 [discord]: https://discord.gg/MhnKaY5qdK
-[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
