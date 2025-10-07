@@ -1,20 +1,56 @@
-<!-- ME  -->
+<!-- ME -->
 <h1 align="center">Hi 👋, I'm 
-  <a href="https://hadikachmar3.github.io/">Hadi Kachmar </a>
+  <a href="https://hadikachmar3.github.io/">Hadi Kachmar</a>
 </h1>
-<!--  What am I? -->
+
 <h3 align="center">Senior Software Engineer | Data Scientist | Instructor</h3>
 
 <br/>
 
-<!-- Social -->
-[![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
-[![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
-[![Facebook: HadiKachmar](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
-[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
-[![GitHub followers](https://img.shields.io/github/followers/hadikachmar3?logo=GitHub&style=for-the-badge)][github]
-[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
+<!-- === Identity & Social Proof Badges === -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w">
+    <img src="https://img.shields.io/badge/YouTube-20k%20Subscribers-red?style=for-the-badge&logo=youtube" />
+  </a>
+  <a href="https://www.udemy.com/user/hadi-kachmar-2/">
+    <img src="https://img.shields.io/badge/Udemy-90k%2B%20Students-purple?style=for-the-badge&logo=udemy" />
+  </a>
+  <a href="https://github.com/hadikachmar3?tab=repositories">
+    <img src="https://img.shields.io/github/stars/hadikachmar3?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=yellow" />
+  </a>
+  <a href="https://hadikachmar3.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-hadikachmar3.github.io-blueviolet?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+<!-- === Tech Stack Summary === -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+<!-- === Social Links (centered) === -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/hadi-kachmar-27a56a177/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/Coding-with-Hadi-113431577650864/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/MhnKaY5qdK">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/hadikachmar3">
+    <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6" />
+  </a>
+</p>
 
 ---
 
@@ -23,21 +59,32 @@
    <i><b>Git Activeness</b></i>
 </p>
 
-<!--  Stats -->
-<p align= "center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" />
-   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadikachmar3&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hadikachmar3&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hadikachmar3&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hadikachmar3&theme=radical&margin-w=10&no-bg=true"/>
+</p>
 ---
 
-<!--  Udemy courses-->
-<h3>
+## 👨‍🏫 Udemy Courses by Me
+
+<p align="center">
   <a href="https://www.udemy.com/user/hadi-kachmar-2/">
-    👨‍🏫 Udemy Courses by me
+    <img src="https://img.shields.io/badge/Udemy%20Profile-Visit-purple?style=for-the-badge&logo=udemy" />
   </a>
-</h3>
-  
+</p>
+
 <p align= "center">
 
   <!-- NEW FIRST COURSE -->
@@ -70,7 +117,6 @@
         <font size="2"> 5.0 ⭐ </font>
      </kbd>
   </a>  
-
 
   <a href="https://www.udemy.com/course/flutter-30rest-api-crash-course-build-a-news-app-from-zero/?referralCode=51B0E1AC01B51390185B">
      <kbd>
@@ -110,7 +156,7 @@
 
 ### 🚀 Mobile & Frontend
 - **Flutter / Dart** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20" height="20"/>  
-- **React / TypeScript / JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"/>  
+- **Angular / React / TypeScript / JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"/>  
 - Kotlin / Jetpack Compose <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="20" height="20"/>  
 - Java / XML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/>  
 - Redux, REST APIs, UI/UX <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20" height="20"/>  
@@ -143,7 +189,6 @@
 <!-- YOUTUBE:END -->
 
 ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w/videos)
-
 
 ---
 
